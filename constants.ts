@@ -45,6 +45,31 @@ export const SOFTWARE = [
     name: 'Canva', 
     icon: 'https://i.ibb.co/F4w0j4cn/canva.png',
     level: 'Fast Assets'
+  },
+  {
+    name: 'Veo 3.1',
+    icon: 'https://i.ibb.co/39kmM4Gn/Google-Veo.png',
+    level: 'AI Video Generation'
+  },
+  {
+    name: 'Google AI Studio',
+    icon: 'https://i.ibb.co/p6m82tqY/Google-AI-Studio.png',
+    level: 'AI Prompt Engineering'
+  },
+  {
+    name: 'Antigravity',
+    icon: 'https://i.ibb.co/Y7Cn3Dg7/antigravity.png',
+    level: 'Workflow Automation'
+  },
+  {
+    name: 'Flow & Nano Banana Pro',
+    icon: 'https://i.ibb.co/8Lwsc1pH/Flow.png',
+    level: 'Workflow Tool'
+  },
+  {
+    name: 'Gemini CLI',
+    icon: 'https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg',
+    level: 'Terminal AI Tools'
   }
 ];
 
