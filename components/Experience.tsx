@@ -78,7 +78,7 @@ const Experience: React.FC = () => {
             <h3 className="text-2xl font-black uppercase mb-4 tracking-tighter">Looking for real impact?</h3>
             <p className="font-bold mb-6 leading-tight opacity-90">
               My focus isn't just editing; it's creating content that captures attention in the first 3 seconds 
-              and keeps users engaged until the very end.
+              using the perfect blend of dynamic editing, motion graphics, and advanced AI-generated assets to keep users engaged until the very end.
             </p>
             <a 
               href="https://api.whatsapp.com/send?phone=573232107608" 
