@@ -22,12 +22,12 @@ const Hero: React.FC = () => {
           CRYPTUM
         </h2>
         <h1 className="text-xl md:text-3xl font-light text-neutral-300 mb-8 tracking-[0.3em] uppercase">
-          Video Editor, Motion & Graphic Designer
+          Video Editor, Motion Designer & AI Specialist
         </h1>
         <p className="text-neutral-400 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed font-light">
-          Specialist in <span className="text-white font-semibold">short-form content</span>, 
-          audiovisual production for Esports, and graphic design. +5 years transforming ideas into 
-          visual impact with <span className="gold-text">CapCut, Premiere, After Effects, and Photoshop</span>.
+          Leader in <span className="text-white font-semibold">creation, design, and multimedia content marketing</span>. 
+          +5 years transforming ideas into visual impact for Esports and digital platforms, 
+          leveraging <span className="gold-text">Adobe Suite and advanced AI tools</span>.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
