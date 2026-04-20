@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const GraphicDesignGallery: React.FC = () => {
   const images = [
-    "https://i.ibb.co/dwNrGg6R/GPCj334-Xk-AAOE5-A.jpg",
+    "https://i.ibb.co/WNC2bMv0/Bienvenidos.png",
     "https://i.ibb.co/Wp4DNMGL/CV-Template-01.jpg",
     "https://i.ibb.co/Zpz6WpkV/118890054-2886571974904861-1841816776901266108-n.jpg",
     "https://i.ibb.co/HfyrJZ0d/476670834-122212480442217325-7776423378451460475-n.jpg",
