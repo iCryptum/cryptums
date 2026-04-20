@@ -61,7 +61,7 @@ const App: React.FC = () => {
 
       <footer className="py-10 border-t border-neutral-800 text-center text-neutral-500 text-sm">
         <p>© {new Date().getFullYear()} Cryptum - Jhohan Camilo González Castro. All rights reserved.</p>
-        <p className="mt-2 uppercase tracking-widest text-[10px]">Video Editor | Motion Graphics | Graphic Designer | Community Manager</p>
+        <p className="mt-2 uppercase tracking-widest text-[10px]">Video Editor | Motion Graphics | Graphic Designer | AI Specialist</p>
       </footer>
 
       <WhatsAppButton />
