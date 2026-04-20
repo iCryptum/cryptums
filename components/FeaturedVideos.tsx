@@ -11,6 +11,35 @@ const FeaturedVideos: React.FC = () => {
         <div className="w-20 h-1 gold-bg mx-auto"></div>
       </div>
 
+      {/* AI Video (SWAT Latam) */}
+      <div className="mb-20">
+        <div className="grid md:grid-cols-2 gap-10 items-center">
+          <div className="order-2 md:order-1">
+            <span className="gold-text text-xs font-bold tracking-[0.3em] uppercase block mb-2">AI Generation | VFX</span>
+            <h3 className="text-3xl font-bold mb-4">SWAT Latam AI Concept</h3>
+            <p className="text-neutral-400 mb-6 leading-relaxed">
+              Project created for the esports organization SWAT Latam. This video was generated using Artificial Intelligence, where I crafted detailed scene descriptions in prompt format to generate images, and subsequently modified the prompts to generate seamless video sequences. A major focus was maintaining strict character and aesthetic consistency across all scenes. The piece was finalized with post-production and special effects using After Effects.
+            </p>
+            <div className="flex gap-4 flex-wrap">
+               <span className="px-3 py-1 bg-neutral-800 text-xs rounded-full">AI Video Generation</span>
+               <span className="px-3 py-1 bg-neutral-800 text-xs rounded-full">Prompt Engineering</span>
+               <span className="px-3 py-1 bg-neutral-800 text-xs rounded-full">After Effects</span>
+            </div>
+          </div>
+          <div className="order-1 md:order-2 aspect-video bg-black rounded-xl overflow-hidden shadow-2xl gold-border border-2">
+            <iframe 
+              src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1387401126756173&show_text=false&width=560&t=0" 
+              className="w-full h-full"
+              style={{ border: 'none', overflow: 'hidden' }} 
+              scrolling="no" 
+              title="SWAT Latam AI Video"
+              allowFullScreen={true} 
+              allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+            />
+          </div>
+        </div>
+      </div>
+
       {/* Main Horizontal Video (After Effects) */}
       <div className="mb-20">
         <div className="grid md:grid-cols-2 gap-10 items-center">
