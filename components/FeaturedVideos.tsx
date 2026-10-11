@@ -74,25 +74,6 @@ const FeaturedVideos: React.FC = () => {
       {/* Vertical Reels (CapCut Specialists) */}
       <div className="grid md:grid-cols-2 gap-10">
         
-        {/* VIDEO 1: FutbolTaconesCOL - Optimized YouTube Embed */}
-        <div className="bg-neutral-900 p-6 rounded-2xl flex flex-col items-center">
-          <div className="w-full max-w-[340px] aspect-[9/16] bg-black rounded-xl overflow-hidden mb-6 shadow-lg mx-auto relative group">
-            <iframe 
-              className="w-full h-full"
-              src="https://www.youtube-nocookie.com/embed/Sd196AV83hY?rel=0&modestbranding=1&playsinline=1&controls=1" 
-              title="FutbolTaconesCOL Short" 
-              frameBorder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-              allowFullScreen
-              referrerPolicy="strict-origin-when-cross-origin"
-            />
-          </div>
-          <div className="text-center">
-            <h4 className="text-xl font-bold mb-2 gold-text">FutbolTaconesCOL</h4>
-            <p className="text-neutral-500 text-sm">Hooks, transitions, VFX and SFX using CapCut. Lead CM for the project.</p>
-          </div>
-        </div>
-
         {/* VIDEO 2: YouTube Embed */}
         <div className="bg-neutral-900 p-6 rounded-2xl flex flex-col items-center">
           <div className="w-full max-w-[340px] aspect-[9/16] bg-black rounded-xl overflow-hidden mb-6 shadow-lg mx-auto relative group">
